@@ -1,0 +1,258 @@
+{
+  "products": {
+    "bandages": [
+      {
+        "id": 1,
+        "steril" : true,
+        "name": "բժշկական ԲԻՆՏ ՍՏԵՐԻԼ",
+        "sizes": [
+          {
+            "height": "16սմ",
+            "width": "10մ"
+          },
+          {
+            "height": "14սմ",
+            "width": "7մ"
+          },
+          {
+            "height": "10սմ",
+            "width": "5մ"
+          }
+        ],
+        "description": "Բինտեր, թանզիֆե մանրէազերծված բժշկական անձեռոցիկներ, մանրէազերծված և ոչ մանրէազերծված բժշկական վիրակապեր արտադրող;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+        "picture": "bandage.png"
+      },
+      {
+        "id": 2,
+        "name": "բժշկական ԲԻՆՏ ոչ ՍՏԵՐԻԼ",
+        "sizes": [
+          {
+            "height": "16սմ",
+            "width": "10մ"
+          },
+          {
+            "height": "14սմ",
+            "width": "7մ"
+          },
+          {
+            "height": "10սմ",
+            "width": "5մ"
+          }
+        ],
+        "description": "Բինտեր, թանզիֆե մանրէազերծված բժշկական անձեռոցիկներ, մանրէազերծված և ոչ մանրէազերծված բժշկական վիրակապեր արտադրող;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+        "picture": "bandage.png"
+      }
+    ],
+    "tanfizes": [
+      {
+        "id": 1,
+        "name": "բժշկական թանզիֆ ոչ ՍՏԵՐԻԼ",
+        "sizes": [
+          {
+            "height": "90սմ",
+            "width": "3մ"
+          },
+          {
+            "height": "90սմ",
+            "width": "5մ"
+          },
+          {
+            "height": "90սմ",
+            "width": "10մ"
+          }
+        ],
+        "description": "Թանզիֆ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+        "picture": "tanfiz.png"
+      }
+    ],
+    "napkins": [
+      {
+        "id": 1,
+        "name": "բժշկական անձեռոցիկ ոչ ՍՏԵՐԻԼ",
+        "characteristics": {
+          "size": {
+            "height": "10սմ",
+            "width": "10սմ"
+          },
+          "layers": "12 շերտ",
+          "quantity": "100 հատ"
+        },
+        "description": "Թանզիֆ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+        "picture": "bandage.png"
+      },
+      {
+        "id": 2,
+        "name": "բժշկական անձեռոցիկ  ՍՏԵՐԻԼ (ինդիվիդուալ)",
+        "steril" : true,
+        "characteristics": {
+          "size": {
+            "height": "10սմ",
+            "width": "10սմ"
+          },
+          "layers": "12 շերտ",
+          "quantity": "5 հատ"
+        },
+        "description": "Թանզիֆ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+        "picture": "bandage.png"
+      },
+      {
+        "id": 3,
+        "name": "բժշկական անձեռոցիկ ոչ ՍՏԵՐԻԼ",
+        "characteristics": {
+          "size": {
+            "height": "10սմ",
+            "width": "10սմ"
+          },
+          "layers": "12 շերտ",
+          "quantity": "100 հատ"
+        },
+        "description": "Թանզիֆ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+        "picture": "bandage.png"
+      },
+      {
+        "id": 4,
+        "steril" : true,
+        "name": "բժշկական անձեռոցիկ  ՍՏԵՐԻԼ (ինդիվիդուալ)",
+        "characteristics": {
+          "size": {
+            "height": "10սմ",
+            "width": "10սմ"
+          },
+          "layers": "12 շերտ",
+          "quantity": "5 հատ"
+        },
+        "description": "Թանզիֆ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+        "picture": "bandage.png"
+      },
+      {
+        "id": 5,
+        "name": "բժշկական անձեռոցիկ ոչ ՍՏԵՐԻԼ",
+        "characteristics": {
+          "size": {
+            "height": "10սմ",
+            "width": "10սմ"
+          },
+          "layers": "12 շերտ",
+          "quantity": "100 հատ"
+        },
+        "description": "Թանզիֆ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+        "picture": "bandage.png"
+      },
+      {
+        "id": 6,
+        "name": "բժշկական անձեռոցիկ  ՍՏԵՐԻԼ (ինդիվիդուալ)",
+        "steril" : true,
+        "characteristics": {
+          "size": {
+            "height": "10սմ",
+            "width": "10սմ"
+          },
+          "layers": "12 շերտ",
+          "quantity": "5 հատ"
+        },
+        "description": "Թանզիֆ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+        "picture": "bandage.png"
+      },
+      {
+        "id": 7,
+        "name": "բժշկական անձեռոցիկ ոչ ՍՏԵՐԻԼ",
+        "characteristics": {
+          "size": {
+            "height": "10սմ",
+            "width": "10սմ"
+          },
+          "layers": "12 շերտ",
+          "quantity": "100 հատ"
+        },
+        "description": "Թանզիֆ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+        "picture": "bandage.png"
+      },
+      {
+        "id": 8,
+        "name": "բժշկական անձեռոցիկ  ՍՏԵՐԻԼ (ինդիվիդուալ)",
+        "steril" : true,
+        "characteristics": {
+          "size": {
+            "height": "10սմ",
+            "width": "10սմ"
+          },
+          "layers": "12 շերտ",
+          "quantity": "5 հատ"
+        },
+        "description": "Թանզիֆ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+        "picture": "bandage.png"
+      },
+      {
+        "id": 9,
+        "name": "բժշկական անձեռոցիկ ոչ ՍՏԵՐԻԼ",
+        "characteristics": {
+          "size": {
+            "height": "10սմ",
+            "width": "10սմ"
+          },
+          "layers": "12 շերտ",
+          "quantity": "100 հատ"
+        },
+        "description": "Թանզիֆ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+        "picture": "bandage.png"
+      },
+      {
+        "id": 10,
+        "name": "բժշկական անձեռոցիկ  ՍՏԵՐԻԼ (ինդիվիդուալ)",
+        "steril" : true,
+        "characteristics": {
+          "size": {
+            "height": "10սմ",
+            "width": "10սմ"
+          },
+          "layers": "12 շերտ",
+          "quantity": "5 հատ"
+        },
+        "description": "Թանզիֆ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+        "picture": "bandage.png"
+      }
+    ],
+    "tops": [
+      {
+        "id": 1,
+        "name": "բժշկական ԲԻՆՏ ՍՏԵՐԻԼ",
+        "sizes": [
+          {
+            "height": "90սմ",
+            "width": "1000մ"
+          },
+          {
+            "height": "90սմ",
+            "width": "2000մ"
+          },
+          {
+            "height": "90սմ",
+            "width": "2000մ"
+          }
+        ],
+        "description": "Բինտեր, թանզիֆե մանրէազերծված բժշկական անձեռոցիկներ, մանրէազերծված և ոչ մանրէազերծված բժշկական վիրակապեր արտադրող;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+        "picture": "top.png"
+      }
+    ]
+  },
+  "co-workers": [
+    {
+      "image": "coworker.png"
+    },
+    {
+      "image": "coworker.png"
+    },
+    {
+      "image": "coworker.png"
+    },
+    {
+      "image": "coworker.png"
+    },
+    {
+      "image": "coworker.png"
+    },
+    {
+      "image": "coworker.png"
+    }
+  ]
+}
